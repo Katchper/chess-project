@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d428c94f-dd17-459b-a0aa-99fd3ae2a340" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../20230216/FEN strings demo/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../20230216/FEN strings demo/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20230216/FEN strings demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20230216/FEN strings demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20230501/arm36/tests/GameTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20230501/arm36/tests/PawnTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExitMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoadMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PlayerMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/Bishop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/ChessBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/EmptyPiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/King.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/Knight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/Pawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/Piece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/PlayerMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/Queen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/Rook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chess/Tile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fenConvertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../docs/design_spec_doc/Design_Specification.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../docs/design_spec_doc/Design_Specification.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../docs/design_spec_doc/Design_Specification.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../docs/design_spec_doc/Design_Specification.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ln2bEkSN0awv2kL6Nacy8APhYE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../20230323/FEN Strings + Board" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kacpe\Desktop\FEN strings demo\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FenConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FenConverter" />
+      <module name="Week 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FenConverter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d428c94f-dd17-459b-a0aa-99fd3ae2a340" name="Changes" comment="" />
+      <created>1676492598776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676492598776</updated>
+      <workItem from="1677690736966" duration="2869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

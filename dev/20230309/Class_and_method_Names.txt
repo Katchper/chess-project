@@ -1,0 +1,74 @@
+Method Names 
+============
+EDIT AS NEEDED
+
+Main menu Class
+~~~~~~~~~~~~~~~
+Event Listeners 
+	New game
+	Continue 
+	replay
+	Quit
+
+
+Player
+~~~~~~
+
+Readnames 
+P1 Colour
+Event Listener
+	Play
+
+Game
+~~~~
+getPieces 
+gameLoad 
+
+Board Class
+~~~~~~~~~~~
+initialiseBoard 
+gettile
+flipBoard
+
+Tile Class
+~~~~~~~~~~
+getPiece
+getX
+getY
+setPiece
+flipCoords
+isEmpty
+setEmpty
+
+Abstract Piece Class
+~~~~~~~~~~~~~~~~~~~~
+generateMoves 
+checkForPiece
+checkWhichPiece
+generateStraightMoves
+generateDiagonalMoves
+getColour
+setColour
+getPieceChar
+
+PIECES
+~~~~~~~
+
+To Be Updated 
+
+
+Replay Menun Class 
+~~~~~~~~~~~~~~~~~~
+getFileNames
+highlightSave
+event listener:
+	Replay Game
+
+Replay Game Class
+gameLoad
+loadBoard
+readLine
+event listeners: 
+	Next 
+	Previous
+	Quit 

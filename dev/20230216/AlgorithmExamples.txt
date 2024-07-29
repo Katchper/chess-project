@@ -1,0 +1,58 @@
+Algorithms and possible problems
+Date: 08/02/2023
+Author: ktd1
+=======================================
+
+Algorithms:
+
+There are a variety of algorithms we will require for the chess game, a few
+examples of what we will need are:
+
+A function which checks and returns the valid move for any or all pieces. We have to decide
+whether we want to generate and store all valid moves at the start of each turn or run
+a function to display them everytime we interact with a piece.
+
+The algorithm which generates the valid moves for every piece. Each piece has a set way of
+moving and we will have to work out what kind of algorithm suits this task the best and ensures
+we only get valid moves as a result. I believe that seperate functions for each type of piece
+would be the easiest method of implementing then using for loops to iterate over each possible position
+and filtering the invalid ones out (going over pieces unless its castling or a knight or putting own
+king into check)
+
+We will need a "Check" function which works with the "valid move" function to return valid moves in
+the case that your king is in check, this would remove any moves which do not protect the king and
+the only valid moves would be moving the king out of check, blocking the check with another piece,
+or capturing the piece causing the check and in case of 0 valid moves it ends in checkmate
+
+We will most likely have to make use of some dictionary data structure to store the gamestates 
+every turn to make it quick to retrieve and save.
+
+=======================================
+
+Main things to implement:
+
+- save and retrieve games
+- saving gamestates each turn and to files and the data structure for this
+- return valid moves for piece
+- valid moves in check + checkmate
+
+=======================================
+
+Difficulties/Problems:
+
+- Writing the code for valid moves, there are special cases such as pieces 
+being pinned to their own king and moving them would cause your own king to 
+be put in check therefore making it invalid. I think checking for this could 
+be a difficult task with a lot of bug fixing involved.
+
+- I think enforcing the player to do a limited set of moves when placed into 
+check could also end up being difficult to solve
+	
+- I believe there will be a lot of bug fixing and experimentation with code 
+to ensure only valid moves can be played
+
+- I think that the idea of replaying the game shouldn’t be a hard implementation 
+overall however I'm certain we will come across errors and bugs.
+
+The rest of the requirements are relatively simple compared to the ones I 
+mentioned but I think there will be small problems along almost every step

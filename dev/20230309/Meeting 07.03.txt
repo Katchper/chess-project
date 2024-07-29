@@ -1,0 +1,158 @@
+Pieces will have generate moves class
+Pieces store own moves in arraylist
+
+Application start:
+	Main menu is borught up
+	
+	New game:
+		Player info class
+			Player names
+			Player 1 colour
+			Play
+			
+		Load game class
+			Initilize board
+
+		Game class:
+			Save player names
+			Board class
+			Player info
+		Board class:
+			2d array
+			Tiles class
+		Tiles class:
+			Coordinates
+			Piece class
+		Piece class:
+			Sub type classes
+			Colour bool
+			Piece char / piece ID
+
+		Methods:
+			Generate moves: Game class
+		Initilize board: Board class
+		Get tile: Board class
+		Flip coordinates: Tile class
+		Check for piece: Piece class
+		Check which piece: Piece class
+
+		End game abstract class:
+			Draw: 
+				Save draw at the end of the file
+				Draw accept:
+					No: Continue game
+					Yes: Do nothing
+			Resign: 
+				Save which player won
+			Checkmate:
+				Save which player won
+				Do you want to save method:
+					Yes: Do nothing
+					No: Delete save game file
+			Quit:
+				Do you want to save method:
+					Yes: Do nothing
+					No: Delete save game file
+			End game: Back to main menu
+				
+
+				
+
+	Continue game:
+		Load Game:
+		Get file names method
+		Click / highlight name method
+		Load game method:
+			Another click on the same game
+			Press load button
+		
+		Read FEN from file
+		Load board from FEN
+	
+		Back method: Takes user back to main menu
+		
+
+		Player info class
+			Player names
+			Player 1 colour
+			Play
+			
+		Load game class
+			Initilize board
+
+		Game class:
+			Board class
+			Player info
+		Board class:
+			2d array
+			Tiles class
+		Tiles class:
+			Coordinates
+			Piece class
+		Piece class:
+			Sub type classes
+			Colour bool
+			Piece char / piece ID
+
+		Methods:
+			Generate moves: Game class
+			Initilize board: Board class
+			Get tile: Board class
+			Flip coordinates: Tile class
+			Check for piece: Piece class
+			Check which piece: Piece class
+
+		End game abstract class:
+			Draw: 
+				Save draw at the end of the file
+				Draw accept:
+					No: Continue game
+					Yes: Do nothing
+			Resign: 
+				Save which player won
+			Checkmate:
+				Save which player won
+				Do you want to save method:
+					Yes: Do nothing
+					No: Delete save game file
+			Quit:
+				Do you want to save method:
+					Yes: Do nothing
+					No: Delete save game file
+			End game: Back to main menu
+
+	Replay Game:
+		Get file names method
+		Click / highlight name method
+		Replay game method:
+			Another click on the same game
+			Press load button
+		
+		Use filereader to read line by line
+
+		Quit:
+			Go to main menu
+			Go to desktop
+		
+		Next move method:
+			Iterate to the next FEN string and update board
+			At the end of the game, greyed out
+		Previous move method:
+			Iterate to the previous FEN string and update board
+			At the start of the game, greyed out
+
+		Back method: Takes user back to main menu
+		
+	Quit menu:
+		Cancel: Back to main menu
+		Exit: Close program
+		
+		
+		
+
+	
+		
+		
+
+
+

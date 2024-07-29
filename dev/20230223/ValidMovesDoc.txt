@@ -1,0 +1,102 @@
+We have a chess board, in this it will be represented as a 0 based 2d array and each 
+space either holds a null which is an absence of a piece or a "Piece Object" which 
+holds the information about the piece such as colour and type.
+
+The first step before creating a list of valid moves would be first making sure the 
+king is not within check or checkmate.
+
+At the start of each turn a function will iterate and check all the opponents valid moves 
+and see if any of them overlap with our king. If they do the player is placed in a state 
+of check where moves which put the king out of check are only considered valid, these moves 
+consist of blocking the enemy piece(s), moving the king away or capturing the piece putting 
+the king in a check. Since there are a lot of possible cases, a function will play over your 
+every possible move seeing if your king is still in check by comparing them against the 
+opponents valid moves and seeing if any of them overlap with the king. This can be used as 
+a quick to put together initial function for testing and demonstration. 
+
+Checking for valid moves. There are many moves in chess the way to check valid 
+moves will be done differently for every piece:
+
+==================================================
+
+Pawn: starting off with the pawn. It can move 1 or 2 spaces from its starting position and 
+if an opposing pawn moves twice and is adjacent to your pawn it gains the ability to 
+"en-passant". Each pawn will store a boolean value called doubleMove - If you move the pawn 
+2 squares it will change to true for one turn and false after the next move. This gives the 
+ability to check for en passant moves. The pawn will also hold a moved variable which changes 
+to false after moving the pawn, this disallows the pawn from making any more double moves 
+after the first one. There will also be checks for the squares the pawn could potentially 
+move to to see if there are any pieces blocking the moves.
+
+	- Check for valid moves one space, 2 spaces, en passant
+	- See if any of them put your king in check (remove those)
+	- Return a list of valid moves
+
+==================================================
+
+King: the king's valid moves are moving one space in any direction as well as castling. The 
+king will hold a moved variable which updates after moving the king. The kings valid moves 
+will simply be checked all around him and seeing if any of them place the king into check or 
+are blocked by another piece.
+
+Castling has quite a few gimmicks to be checked for. First the king will be inspected for 
+check disallowing castling if true. Secondly the rooks will also have a moved variable which 
+updates when it gets moved. This prevents illegal castling if either of the pieces have moved. 
+The next check is to make sure there's no pieces blocking, friendly or opposing by checking 
+all the squares on the side the player wants to castle to. We have to check to see if the king 
+passes through an attacked square. This could be done by checking all the covered positions by 
+the enemy and seeing if any of the covered squares overlap with the move. We would check the 
+squares 2 to the left or right of the king for valid castling
+
+If any of the 2 squares on either side of the king are being attacked by an enemy piece
+It's not valid to castle. (only the side being attacked is restricted unless the king is 
+being attacked then both are invalid)
+
+	- Check for valid moves (any square around the king that aren't blocked)
+	- Check for castling options (explained above)
+	- Remove any moves which put the king into check
+
+==================================================
+
+Rook Moves: 
+The rook can move in a straight line along the 2 axis and can also castle but that is explained in the king.
+We will iterate over the 4 directions it can move in and place the moves in a list which. The 
+loop breaks once we reach a friendly piece, it also breaks once we reach an enemy piece but we 
+add that move before breaking. Repeat for all 4 directions and then do a final check to see 
+which moves don't put the king into a check and return those moves only.
+
+	- Save all moves until it reaches a piece in all 4 directions
+	- Remove any moves which put the king in check
+
+==================================================
+
+Bishop Moves:
+The bishop moves diagonally along the coloured squared it originated on.
+We will iterate over the 4 directions it can move, the loop breaks when we reach a piece same 
+as the rook. Remove any moves which put the king into a check
+
+	- Save all moves until it reaches a piece in all 4 diagonal directions
+	- Remove any moves which put the king in check
+
+==================================================
+
+Knight Moves:
+The knight moves in a unique way where it can jump over squares in an L shape.
+To check for valid moves we just put all the L moves it can do on the board, if its blocked by 
+a friendly piece remove it. After getting all those moves, check to see if any of them put our 
+king into check and remove those
+
+	- Save all L moves it can do that aren't blocked.
+	- Remove any moves which put the king into check
+
+==================================================
+
+Queen Moves:
+The queen is a special piece that has the movement abilities of both the bishop and the rook.
+To check for valid moves we simply repeat what we did for the bishop and rook then remove any 
+moves which put the king into check
+
+	- Save all moves until it reaches a piece in all 8 directions
+	- Remove any moves which put the king into check
+
+

@@ -1,0 +1,25 @@
+joe mamam
+nigger
+rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR b KQkq - 
+rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 
+r1bqkbnr/pppppppp/2n5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 
+r1bqkbnr/pppppppp/2n5/3P4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 
+r1bqkbnr/pppppppp/8/3P4/3n4/8/PPP1PPPP/RNBQKBNR w KQkq - 
+r1bqkbnr/pppppppp/8/3P4/3n4/4P3/PPP2PPP/RNBQKBNR b KQkq - 
+r1bqkbnr/pppp1ppp/8/3Pp3/3n4/4P3/PPP2PPP/RNBQKBNR w KQkq e6 
+r1bqkbnr/pppp1ppp/4P3/8/3n4/4P3/PPP2PPP/RNBQKBNR b KQkq - 
+r1bqkbnr/ppp2ppp/4p3/8/3n4/4P3/PPP2PPP/RNBQKBNR w KQkq - 
+r1bqkbnr/ppp2ppp/4p3/8/3Q4/4P3/PPP2PPP/RNB1KBNR b KQkq - 
+r1b1kbnr/ppp2ppp/4p3/8/3q4/4P3/PPP2PPP/RNB1KBNR w KQkq - 
+r1b1kbnr/ppp2ppp/4p3/8/3qP3/8/PPP2PPP/RNB1KBNR b KQkq - 
+r1b1kbnr/p1p2ppp/1p2p3/8/3qP3/8/PPP2PPP/RNB1KBNR w KQkq - 
+r1b1kbnr/p1p2ppp/1p2p3/8/3qPB2/8/PPP2PPP/RN2KBNR b KQkq - 
+r3kbnr/pbp2ppp/1p2p3/8/3qPB2/8/PPP2PPP/RN2KBNR w KQkq - 
+r3kbnr/pbp2ppp/1p2p3/4P3/3q1B2/8/PPP2PPP/RN2KBNR b KQkq - 
+3rkbnr/pbp2ppp/1p2p3/4P3/3q1B2/8/PPP2PPP/RN2KBNR w KQk - 
+3rkbnr/pbp2ppp/1p2p3/4P3/3q1B2/6P1/PPP2P1P/RN2KBNR b KQk - 
+3rkbnr/pbp2ppp/1p2p3/4P3/5B2/6P1/PPP2P1P/RN1qKBNR w KQk - 
+nigger
+test1
+test2
+3rkbnr/pbp2ppp/1p2p3/4P3/5B2/6P1/PPP2P1P/RN1qKBNR b KQk - 

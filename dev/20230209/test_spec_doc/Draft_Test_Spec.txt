@@ -1,0 +1,74 @@
+Possible list of tests to be conducted
+Date: 05/02/23
+Author: jac127
+==============
+
+FR1:
+	Are the players prompted with a menu on startup?
+		Does the menu have the option to start a new game?
+			Are the players prompted to enter their names for the corresponding colours?
+			Are the player names shown correctly?
+			Are the players assigned the correct colour?
+		
+		Does the menu have the option to restore a previous game?
+
+FR2:
+	Does the program keep track of the player names for the duration of the game?
+	Does the program keep track of the player colour for the duration of the game?
+	Does the program correctly keep track of the player's pieces for the duratioon of the game?
+	
+FR3:
+	Does the program keep track of which player is currently supposed to move?
+	Does the program visually indicate which player is currently supposed to move?
+	Are the player's names displayed on the screen?
+	Is the board displayed on the screen?
+	Are the pieces displayed on the screen?
+	Are the pieces in the correct locations?
+	Are the pieces the correct colour?
+	
+FR4:
+	Can any valid piece of the correct colour be selected by the player?
+	Does the program prevent the player from moving two or more pieces?
+	
+FR5:
+	Are the possible legal moves shown to the user?
+	Are the possible pieces that can be moved shown to the user?
+	Can the pieces be moved?
+	Can the pieces only be moved at the correct time?
+	Can the pieces only be moved by the correct player?
+	Can the pieces only be moved to a valid square?
+	Can the player move any valid piece?
+
+FR6:
+	Does the program detect check?
+	Is check indicated to the user?
+
+FR7:
+	Does the program detect checkmate?
+	Is checkmate indicated to the user?
+	Does the program indicate which player has won the game?
+	
+FR8:
+	Does the program indicate the end of the game?
+	Can the player choose to resign?
+	Can the players make a mutual agreement to end the game (draw)
+	Does the program save the state of the game as it ends?
+
+FR9:
+	Can the players quit the game?
+	Is it possible to save the state of the game?
+
+FR10:
+	Can the game be replayed on step at a time?
+	Can the game be reviewed backwards?
+	Can the game be reviewed forwards?
+	Can the replay be stopped?
+	
+FR11:
+	Does the computer store each move for the entire game?
+	In the event of a game abortion, can the previous game state be restored?
+	Can the game be resumed when the program is restarted?
+
+External Interface Requirements:
+	Is the user's input acted on in under a second?
+	Does the program run on the IS PCs?

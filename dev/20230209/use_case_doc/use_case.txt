@@ -1,0 +1,21 @@
+use cases 
+main menu with buttons
+	-continue 
+	-new game
+	-review previous game
+	-input player names 
+
+actual game
+	-individual piece movement
+	-special moves i.e(castling, en passant)
+	-showing available moves 
+	-textbox when in check 
+	-game over textbox when check mate declaring winner
+	-not being able to move opponents piece 
+	-(optional)rules of piece
+	-quit button
+
+review game 
+	-move by move replay
+	-not allowed to move piece
+	-rewind and fast forward button
