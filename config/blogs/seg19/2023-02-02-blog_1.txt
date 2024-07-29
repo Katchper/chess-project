@@ -1,0 +1,32 @@
+Author: seg19
+Week: 1 (02/02/23)
+
+Assigned actions
+==============
+
+Action 1: watch the Panopto recording on how to build the UI specification
+
+watched the panopto recording
+
+hours:1
+
+Action 2: read SE.QA.04 and start working on UI specification
+
+wrote a short list of use cases
+
+hours:2
+
+Action 3: read the group project introduction and requirement specifications
+
+read the list of requirements and made a list of the functional requirements which helped me produce a list for the UI.
+
+hour:1
+
+Other project work
+================
+
+I had talks about some potential ideas for a user interface
+
+Hours: 1
+
+Total hours: 5

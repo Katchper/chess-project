@@ -1,0 +1,32 @@
+Author: arm36
+Week: 5 (09/03/23)
+
+Assigned actions
+==============
+
+Action 1: UML sequence diagrams
+
+I have learned generally how to make UML sequence diagrams, and have made a couple of examples for two of the functional requirements.
+
+Hours: 1
+
+Action 2: Read SE.QA.05
+
+I have read this document and made notes accordingly.
+
+Hours: 1
+
+Action 3: Tuesday (07/03/2023) meet and discuss design
+
+All of our group met up on this date and had an extensive discussion on the design of the program.
+
+Hours: 3
+
+Other project work
+================
+
+I attended the review meeting for the test specification and gave my feedback on improvements that could be made. I updated the README file to include the role each member has in the project. I have also incorporated Chris' suggested improvements into the Use Case Document.
+
+Hours: 3
+
+Total hours: 8

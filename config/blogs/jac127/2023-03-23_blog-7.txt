@@ -1,0 +1,21 @@
+Author: jac127
+Week: 7 (23/03/23)
+
+Assigned actions
+==============
+
+Add table mapping reqirements on classes, significant data stuctures to Design Spec:
+	I have added the required parts to the design spec
+	Hours: 2
+
+Review meetings for the design spec (including managing issues):
+	Hours: 4
+
+
+Other project work
+================
+
+Been in touch with group members to discuss additional aspects of the design spec
+	Hours: 1
+
+Total Hours: 7

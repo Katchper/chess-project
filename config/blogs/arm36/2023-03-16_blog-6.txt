@@ -1,0 +1,20 @@
+Author: arm36
+Week: 6 (16/03/23)
+
+Assigned actions
+==============
+
+Action 1: Work on sequence diagrams for Design specification
+
+I have made a few diagrams now based on the functional requirements, and have adjusted the existing ones to better fit the interface description.
+
+Hours: 3
+
+Other project work
+================
+
+I attended two meetings; one to work on the design specification and another to finalise some details. I have also made some small updates to the use case document.
+
+Hours: 4
+
+Total hours: 7

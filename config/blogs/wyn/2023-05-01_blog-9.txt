@@ -1,0 +1,19 @@
+Author: wyn
+Week: 9 - (01/05/2023)
+
+Assigned Actions
+==============
+1. I have read through SEQA.09 to understand the coding standard of the project.
+Hours: 1
+
+2. I have audited the updated Design Specification and pointed out the necessary changes. 
+Hours : 1
+
+3. I have looked at the test code produced today and ensured that the codes are up to standard.
+Hours : 2
+
+
+Other Project Work
+==============
+I have studied JUnit test to deepen my understanding of its application.
+Hours: 1

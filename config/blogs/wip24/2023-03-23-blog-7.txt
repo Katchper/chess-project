@@ -1,0 +1,21 @@
+Author: wip24
+Week: 3 (16/02/23)
+
+Assigned actions
+==============
+
+Action 1: UML diagram
+
+	Action taken: improved UML diagram
+
+Hours: 1
+
+Other project work
+================
+Action 1: Attended group meetings
+
+	Action taken: Attended two review meetings
+
+Hours: 4
+
+Total hours: 5

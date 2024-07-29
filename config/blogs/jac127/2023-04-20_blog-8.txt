@@ -1,0 +1,22 @@
+Author: jac127
+Week: 8 (20/04/23)
+
+Assigned actions
+==============
+
+Work on the tile class:
+	I have completed the tile class along with Javadoc comments
+	Hours: 3
+
+Meeting with Wei (wyn) to discuss test specification feedback:
+	Hours: 1
+
+Modify test spec to respond to feedback:
+	I have changed the tests to be more specific and repeatable. I also planned test files that we can use
+	Hours: 5
+
+
+Other project work
+================
+
+Total Hours: 9

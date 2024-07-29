@@ -1,0 +1,32 @@
+Author: seg19
+Week: 5 (02/03/23)
+
+Assigned actions
+==============
+
+Action 1: Testing document review meeting
+I arranged and attended the test specification review meeting 
+
+Hours: 2
+
+Action 2: Read SE.QA.05 
+
+I have read the document and have made some notes 
+
+Hours:1
+
+Action 3: Group meeting to discuss the design document
+
+attended the group meeting to begin discussing the design specification document 
+
+Hours: 3
+
+Other Project work
+==================
+
+I am working on the feedback recieved by chris to update the UI specification 
+
+Hours: 2 
+
+
+Total hours: 8

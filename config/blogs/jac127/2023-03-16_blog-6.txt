@@ -1,0 +1,21 @@
+Author: jac127
+Week: 6 (15/03/23)
+
+Assigned actions
+==============
+
+Work on decomposition for the Design Specification:
+	I have completed the decomposition description
+	Hours: 2
+
+Held a meeting to discuss the program design:
+	Hours: 2
+
+
+Other project work
+================
+
+Held another meeting to get a progress update on the design spec and organise what work we all need to do now
+	Hours: 1
+
+Total Hours: 5

@@ -1,0 +1,16 @@
+Author: jas160
+Week: 8 (20/04/23)
+
+Assigned actions
+==============
+
+1: work on the saving class 
+
+Carried on working on my class so it's able to convert the board to fen to be able to save as well as started on the loading
+
+Hours: 11
+
+Other project work
+================
+
+Total Hours: 11

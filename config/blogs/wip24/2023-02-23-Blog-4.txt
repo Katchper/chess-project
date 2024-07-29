@@ -1,0 +1,24 @@
+Author: wip24
+Week: 4 (23/02/23)
+
+Assigned actions
+==============
+
+Action 1: Action 2
+
+	Action taken: Continued work on creating prototypes
+
+Hours: 5
+
+Other project work
+================
+Action 1: Action 1
+
+	Action taken: Assisted with power point
+Hours: 1
+
+Action 2: Action 8
+	
+	Action taken: Attended meeting
+
+Total hours: 8

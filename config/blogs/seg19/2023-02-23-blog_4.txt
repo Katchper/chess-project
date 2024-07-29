@@ -1,0 +1,22 @@
+Author: seg19
+Week: 4 (23/02/23)
+
+Assigned actions
+==============
+
+Action 1: attend the review meeting 
+
+attended the review meeting to discuss the UI design spec and the presentation 
+
+Hours: 1
+
+Action 2: Worked on the presentation 
+
+Continued to work on the presentation in accordance with the feedback given from the review meeting.
+
+Hours:  3
+
+
+
+
+Total hours: 4

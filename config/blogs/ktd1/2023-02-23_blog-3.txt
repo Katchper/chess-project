@@ -1,0 +1,16 @@
+Author: ktd1
+Week: 3 (23/02/23)
+
+Assigned actions
+==============
+Programming valid moves (incomplete)
+
+Hours: 8
+
+Other Project Work
+================
+In person meeting with the group to discuss UI
+
+Hours: 2
+
+Total hours: 10

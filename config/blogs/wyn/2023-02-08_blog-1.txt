@@ -1,0 +1,34 @@
+Author: wyn
+Week: 1 - (08/02/2023)
+
+Assigned Actions
+==============
+
+Action 1: Everyone must watch the Panopto recording on how to build the UI specification.
+
+I have watched and understood the recording about the UI specification.
+
+Hours: 1
+
+Action 2: Everyone must read the group project introduction document and the 
+requirements specification. 
+
+I have read and understood the introduction document and the requirements specification.
+
+Hours: 1
+
+Action 3: Someone to look into the documents SE.QA.01, 02 and 03, 
+and to explain how QA works on the project.
+
+I have extensively read all documents SE.QA.01, 02 and 03, and will be outlining its content soon in the next meeting.
+
+Hours: 4
+
+Other Project Work
+================
+I have watch the Panopto recording of the lectures I have missed on Monday.
+
+Hours: 1
+
+Total Time: 7 Hours
+

@@ -1,0 +1,49 @@
+Meeting: Review Meeting For Testing Spec 
+
+Persons Present: Jac127, Seg19, Arm36, Wyn
+Place and Date of Meeting: Library Study room 1, 06/03/2023 10am 
+
+Circulation list: All Attendees, Plus Project Manager 
+Author: Sean Gemmell 
+Date of Minutes: 06/03/2023
+
+Changes arising from the review 
+===============================
+
+
+
+Testing Document:
+=================
+
+1) Does the document meet the General Document Standards?
+
+The Document does meet the required standards, as set out in SE.QA.02  
+
+2) Does the Test Specification have the matrix of Requirement/Test ref/Test content/Pass criteria for each
+functional requirement? Do the tests cover every requirement?
+
+The Test specification does have the correct matrix. The Document does cover every functional requirement 
+
+3) Are the detailed tests reproducible? 
+
+The tests do seem to be reproducible
+
+4) Do the tests for each requirement cover all possibilities for the relevant requirement? In particular, do
+they test for all possible types of failure? Are boundary conditions tested?
+
+The tests listed do seem to cover all possible types of failure
+
+
+
+Changes to the Document required
+================================
+(The Changes to be made by Jac127)
+
+1) Change the copyright date to current 
+
+2) Edit SE-FR-26 so that it includes text about capturing pieces
+
+3) Edit SE-FR-27 so that it includes text about the king being in check
+
+===================================================================
+

@@ -1,0 +1,18 @@
+Author: jas160
+Week: 7 (23/03/23)
+
+Assigned actions
+==============
+Coding
+
+Began coding the Class for the fen converter that will be used for saving and loading the fen strings
+
+Hours: 6
+
+Other project work
+================
+I attended 2 Design spec meetings 
+
+Hours: 4
+
+Total Hours: 10

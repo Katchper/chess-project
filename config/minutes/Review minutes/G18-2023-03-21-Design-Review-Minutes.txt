@@ -1,0 +1,109 @@
+Meeting: Design Specification Review
+
+Persons Present: jac127, ktd1, seg19, arm36, wyn, wip24, mrm19, jas160
+Place and Date of Meeting: study room 1, 18:00
+
+Circulation list: all members 
+Author: Sean Gemmell 
+Date of Minutes: 21/03/2023
+
+Changes arising from the review 
+===============================
+
+1. edit the component diagram to include a new box with replay game and add a line from the end game, the replay and the load game to main menu 
+Action- Jas160- completed
+
+2. implement pawn promotion
+Action- wip24- ongoing
+
+3. add a saving/loading files to 4.15 
+Action- Jac127- completed 
+
+4. in 5.1 player setup FR1 remove the bottom of the diagram 
+Action- arm36- complete
+
+5. FR2 make the text into 3 lines
+Action- arm36- complete
+
+6. FR3 make the text into 3 lines
+Action- arm36- complete
+
+7. Tidy up text for all the diagrams in 5
+Action- arm36- complete
+
+8. Upload 5.2 significant algorithms
+Action- ktd1- completed 
+
+9. 5.3 keep the uml diagram updated
+Action- wip24- ongoing
+
+
+Document:
+=================
+General Documentation Standards 
+===============================
+
+1. Do all formal project documents have the following information on the front cover:
+• Title (indicating Group_name and nature of document)? Yes
+• Author(s)? not everyone who is contributing has 
+• Configuration Reference? yes
+• Date when the latest version was produced? yes
+• Version number (correct)? yes
+• Document status (Draft, Release)? review
+• Name, Address of Dept and Copyright notice? yes 
+
+2. Does the header for the document contain title, version and status on each page?- yes 
+
+3. Does the footer contain "Aberystwyth University / Computer Science" and "Page x of y" correctly? yes
+
+4. Does the document contain specified sections:
+• Contents- yes
+• Introduction: Purpose of document, Scope, Objectives- yes 
+• <Main Body> with appropriate sections- yes
+• References- yes
+• Document Change History with Version, Issue No., Date, Sections Changed from Previous
+Versions, Changed by - yes
+
+5. Are the sections numbered correctly from 1?- yes
+
+6. Are fonts appropriate in headers and in body text? yes
+
+
+Design Document Standards
+==========================
+
+1. Does the document meet the General Document Standards? Yes the document does 
+
+2. Does the design adequately address the overall architecture of the system? yes i believe so 
+
+3. Does the design show the interaction between the modules sufficiently? Yes 
+
+4. Does the design give a correct interface for each module specified? yes 
+
+5. Is there sufficient information on difficult pieces of the design? yes 
+
+6. Will the design meet the requirements? This should be verified from the requirements mapping table,
+and through examination of the requirements specification. Yes the design should meet the requirements 
+
+7. Do the reviewers understand the design? yes
+
+8. Can the design be simplified? probably 
+
+9. Will the design lead to a maintainable system? should do 
+
+10. Could the design be modified to offer more opportunity for reusing existing software libraries? possibly 
+
+
+Changes to the Document Required 
+================================
+1. Add method for pawn promotion to the interface class
+Action: wip24
+
+2. make the UML Diagram more vertical
+Action: wip24 
+
+3. edit the component diagram to reflect replay game method
+Action: Jas160
+
+===================================================================
+

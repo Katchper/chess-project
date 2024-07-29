@@ -1,0 +1,30 @@
+Author: mrm19
+Week: 5 - (02/03/2023)
+
+Assigned Actions
+==============
+
+Action 1: Interface Description.
+-> Read the SE.QA.05 - Design Specification Standards and also created the draft for Interface Description.
+
+Time : 3hrs
+
+Action 2: Tuesday (07/03/2023) meeting.
+
+-> All of our group met up on this date and had an extensive discussion on the design of the program.
+
+Hours: 2hrs
+
+Action 3: Continue JavaFX.
+-> Started to incorporate the back-end code with the front-end.
+
+Time : 5hrs
+
+
+Other Project Work
+================
+Meeting with Kacper.
+Time: 2hrs
+
+
+Total Time: 12 Hours

@@ -1,0 +1,19 @@
+Author: wip24
+Week: 1 (02/02/23)
+
+Assigned actions
+==============
+
+Action 1: Action 11. One or two people to try starting to program the on-screen display: 
+that is get up to speed with javafx. Report back next week.
+
+	Action taken: Implemented prototype on-screen display.
+
+Hours: 10
+
+
+Other project work
+================
+None
+
+Total hours: 10

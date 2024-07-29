@@ -1,0 +1,31 @@
+Author: ktd1
+Week: 1 (09/02/23)
+
+Assigned actions
+==============
+
+Action 1: Read Specification Documents
+
+I spent some time to read through all the documents within the project specification 
+and watched the UI specification Panopto video
+
+Hours: 1
+
+Action 2: Algorithm implementations and Problems
+
+I spent some time firstly reading the rules of chess and writing a list of objectives we will need to achieve
+within the code. Then I spent some time thinking of algorithms to some of these and writing problems
+we will encounter.
+
+Hours: 3
+
+Other Project Work
+================
+I invested some time into learning the basics of JavaFX, i experimented with displaying a few things on 
+the screen. I created a chess board as well as displayed the pieces. I also tried out menu functions like buttons.
+
+I started working on a class diagram for the project
+
+Hours: 5
+
+Total hours: 9

@@ -1,0 +1,16 @@
+Author: jas160
+Week: 4 (02/03/23)
+
+Assigned actions
+==============
+1: Collaborate on the save-to-file system
+
+Jasper helped with the code so afterwards i reviewed what he did to understand the changes he had made
+
+Other project work
+================
+Attended UI spec review meeting 
+
+Hours: 2
+
+Total Hours: 3

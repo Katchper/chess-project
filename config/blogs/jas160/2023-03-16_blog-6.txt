@@ -1,0 +1,21 @@
+Author: jas160
+Week: 6 (16/03/23)
+
+Assigned actions
+==============
+1: Work on interface description for Design specification.
+Muntazir completed this on his own without needing my help so I had a look over it after he did it.
+
+Hours: 1
+
+Other project work
+================
+Attended a meeting to discuss what we should be doing and to help update the design spec
+
+Hours: 2
+
+As the task for this week was completed by somebody else i decided to research about Junit as i know i'd be using it in the future
+
+Hours: 2
+
+Total Hours: 5

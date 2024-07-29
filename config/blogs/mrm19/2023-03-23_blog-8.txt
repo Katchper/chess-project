@@ -1,0 +1,17 @@
+Author: mrm19
+Week: 8 - (23/03/2023)
+
+Assigned Actions
+==============
+
+Action 1: Work on UI and JavaFX classes.
+
+-> Created the Player Menu JavaFX class with text boxes for player names and check box for player 1 to choose Black or White
+
+Time: 10
+
+Other Project Work
+================
+
+
+Total Time: 10

@@ -1,0 +1,20 @@
+Author: jas160
+Week: 10 (02/05/23)
+
+Assigned actions
+==============
+1: Had a meeting with Jasper to discuss the castling and enpassant methods
+
+Hours: 1
+
+Other project work
+================
+Coded 2 methods that could detect the pieces that could castle can be used in the fen string as well as being able to record the en passant square in the fen string saver
+
+Hours: 10
+
+Did a few bug fixes in the converter class
+
+Hours 2:
+
+Total Hours: 13

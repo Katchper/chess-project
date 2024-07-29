@@ -1,0 +1,70 @@
+Project: Group Project 18
+
+Meeting: Weekly Project Meeting 
+
+Persons present: jac127, ktd1(late), seg19, arm36, wip24, mrm19(late), jas160, wyn
+
+Place and date of meeting: C57a, Thursday 27 April 2023 
+
+Circulation list: All members including project manager
+
+Author: Sean Gemmell
+
+Date of minutes: 27/04/2023
+
+Version: 1.0
+
+
+Matters arising 
+===============
+
+1) Look at algorithm in meeting- everyone
+
+2) Implement a visual representation using Java FX of the game graphics- wip24 -ongoing
+
+3) Implement a visual representation using java fx of the game menus- mrm19 -ongoing 
+
+4) Work on the piece classes- jac127 & ktd1 -ongoing
+
+5) Get in touch with the rest of the group regarding the progress of the FEN files work he has done- jas160 
+
+6) Ammend the diagram in the design spec in accordance with the feedback given by chris- jas160
+
+7) Explain the pseudo code and write an explanation- Ktd1 & Arm36- completed
+
+8) Amend Class diagrams to have correct inheritance- wip24-asap 
+
+9) Example FEN string- Arm36 -completed
+
+10) Create a meeting for Friday 21st at 5:30- seg19.  bring laptops, pencils, paper etc- everyone
+
+11) Go through the code that has been uploaded already and ensure it is to the standards set out in SE.QA.09 and inform the relevant authors of changes needed- seg19 –ongoing 
+
+12) Formal QA Audit on the design spec- Seg19 & wyn
+
+13) Go through the uploaded code so far and ensure that the unit testing is testing what it's supposed to and is up to standard- Wyn
+
+14) Need to be writing unit tests for all code- everyone
+
+New business 
+==============
+
+1) update the design spec with proposed design after Friday's meeting - jac127
+
+2) review for design spec to acknowledge the changes to the design spec 5pm friday- seg19
+
+3) check to make sure that the code has been changed to the standards of SE.QA.09 before integration week- seg19, wyn
+
+4) meeting 10am for bringing code together- coders 
+
+5) work on en passant and castling- jac127 and jas160 
+
+6) continue checking tests and thinking about Junit tests that need to be added- wyn
+
+7) futher tasks are to be assigned after Friday meeting - jac127
+
+ 
+
+AOB
+====
+NONE

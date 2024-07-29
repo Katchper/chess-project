@@ -1,0 +1,18 @@
+Author: ktd1
+Week: 11 - (02/05/2023)
+
+Assigned Actions
+==============
+NONE
+
+Other Project Work
+==============
+Added en passant to the GUI as well as castling
+
+Hours: 6
+
+Fixed some bugs with the movement
+
+Hours: 5
+
+Total Time: 11 Hours

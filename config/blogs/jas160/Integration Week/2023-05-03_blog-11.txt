@@ -1,0 +1,14 @@
+Author: jas160
+Week: 10 (03/05/23)
+
+Other project work
+================
+Created tests for the board class as well as creating tests for the converter classs
+
+Hours: 5
+
+Attempted to fix a bug with the converter
+
+Hours 2:
+
+Total Hours: 7

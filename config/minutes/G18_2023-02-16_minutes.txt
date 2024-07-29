@@ -1,0 +1,54 @@
+Project: Group Project 18
+
+Meeting: Weekly Project Meeting 
+
+Persons present: 8 of 9 persons present  
+
+Place and date of meeting: C57a, Thursday 9th February 2023 
+
+Circulation list: 6 0f 8 members present, including project manager. Jason is absent due to sickness (not informed beforehand),
+and Sean is a few minute late due to clashing doctor appointments (informed beforehand).
+
+Author: Ng Wei Yuan
+
+Date of minutes: 16th February
+
+Version: 2.0
+
+
+Matters arising 
+===============
+1. Seg & Arm have provided prototype and idea of the chess board, showing both pointers where moves are legal or illegal.
+However, the use of colours on their indicators may not be feasible with certain group of colourblinded players. They will look more into this matter.
+
+2. Kacper has provided a plan for checking valid moves. In particular, he detailed his plan on checking valid moves for pawn, king, and rook, each with its own algorithm.
+It has been pointed out that there are more cases to be considered. He will continue with the testing of all the valid moves tests.
+
+3. Wip24 has provided pesudocode for a check/checkmate system but not yet complete. He will continue to work on this task
+
+4. Seg and arm have started to draft the UI documentation and are making a presentation of the requirements.
+
+5. Wei has summarised the requirements to carry out the review process once an item has been completed.
+
+6. Jason has not managed to add required tests due to sickness, he will carry on with this task this following week.
+
+New business 
+==============
+1. Work on the presentation of the UI reqirements
+Action: seg19 wyn arm36
+
+2. Continue developing the prototype of the software, in particular the movement of the pieces and the main menu.
+Action: wip24 mrm19
+
+3. Continue on adding testing requirements of the software.
+Action: jac127
+
+4. Continue to work on the algorithm of valid moves of chess pieces.
+Action: ktd1
+
+5. Work on prototyping the save-to-file aspects of the software.
+Action: jas160
+
+AOB
+====
+NONE

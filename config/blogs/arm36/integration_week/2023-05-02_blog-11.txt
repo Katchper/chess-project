@@ -1,0 +1,9 @@
+Author: arm36
+Integration Week Day: 2 (02/05/23)
+
+Project work
+================
+
+I worked on the save system for the game; specifically loading a FEN string from the UI. I also continued to work on unit tests.
+
+Total hours: 6

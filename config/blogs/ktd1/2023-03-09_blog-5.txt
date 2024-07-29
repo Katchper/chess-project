@@ -1,0 +1,25 @@
+Author: ktd1
+Week: 5 (09/03/23)
+
+Assigned actions
+==============
+Finish documented prototype of valid move code
+Hours: 10
+
+Dependency description work with Jason
+Hours: 2
+
+Design Spec Meeting + Reading SE.QA.05
+Hours: 1
+
+
+Other Project Work
+================
+Meeting with Muntazir to share valid move code
+Hours: 2
+Meeting with Will to share code and how it works
+Hours: 1
+
+================
+
+Total hours: 16

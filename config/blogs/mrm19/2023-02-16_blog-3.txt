@@ -1,0 +1,18 @@
+Author: mrm19
+Week: 3 - (16/02/2023)
+
+Assigned Actions
+==============
+
+Action 1: Implementing the main menu JavaFX.
+-> Created the main menu for in JavaFx.
+
+Time : 4hrs
+
+
+Other Project Work
+================
+Group Meeting. 
+Time : 2hrs
+
+Total Time: 6 Hours

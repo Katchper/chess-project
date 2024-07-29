@@ -1,0 +1,28 @@
+Author: mrm19
+Week: 6 - (09/03/2023)
+
+Assigned Actions
+==============
+
+Action 1: Interface Description.
+-> Interface Description for Piece, Bishop, King, Pawn, Queen, Rook, EmptyPiece, Tile, Main, ChessBoard, Board, Check, Player, and FenConverter classes.
+
+Time : 12hrs
+
+Action 2: Group Meeting (10/03/2024)
+-> Discussing the Design specification document.
+
+Time: 1hr
+
+Action 3: Group Meeting (14/03/2024)
+-> Progress of Design specification document. 
+
+Time: 1hr
+
+
+Other Project Work
+================
+
+
+Total Time: 14 Hours
+

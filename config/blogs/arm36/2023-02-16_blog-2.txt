@@ -1,0 +1,33 @@
+Author: arm36
+Week: 2 (16/02/23)
+
+Assigned actions
+==============
+
+Action 1: Come up with some ideas about how the project will look
+
+Some discussions have taken place about potential ideas for a user interface, as well as issues that could arise. 
+Information on this is also inherently a part of the Use Case Document and Presentation which have been worked on.
+
+Hours: 1
+
+Action 2: Start prototyping ideas on how it will look
+
+Sean and I took some time in the library to work on the User Interface Presentation, where we have covered the main points of every use case.
+
+Hours: 3
+
+Action 3: Start Working on the UI documentation
+
+The bulk of the User Interface Specification is now done as I have updated it over the week, it just needs some fleshing out.
+
+Hours: 2
+
+Other project work
+================
+
+I continued to update the Discord server to reflect the newly selected roles, watched the lecture recordings and made notes.
+
+Hours: 2
+
+Total hours: 8

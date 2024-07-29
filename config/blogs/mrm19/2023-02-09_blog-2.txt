@@ -1,0 +1,24 @@
+Author: mrm19
+Week: 2 - (09/02/2023)
+
+Assigned Actions
+==============
+
+Action 1: Implementing the Chess Pieces in JavaFX.
+-> Looked for chess pieces that are required for our project, and then implemented them using JavaFX. I'm happy to say that I was able to successfully add all the chess pieces to our board, and they look great!
+
+Time : 2hrs
+
+Action 2: Writing the README File.
+-> Updated the README file for our project, which includes information on how to set up the project.
+
+Time : 1hr
+
+Other Project Work
+================
+
+In addition to implementing the chess pieces, I also  researched a little bit about the Chess Tutor algorithm on the internet. I wanted to get a better understanding of how the algorithm works so that I can contribute more effectively to our group project.
+
+Time : 2hrs
+
+Total Time: 5 Hours

@@ -1,0 +1,14 @@
+Author: mrm19
+Day: 3 - Integration Week (Wednesday)
+
+Project Work
+================
+Draw Menus
+Resign Menus
+Popups
+Updated Load menu so it selects files from specific Directory.
+Updated Player Menu
+Bug Fixes
+
+
+Total Time: 9hrs

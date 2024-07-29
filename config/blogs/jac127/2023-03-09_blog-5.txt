@@ -1,0 +1,25 @@
+Author: jac127
+Week: 5 (09/03/23)
+
+Assigned actions
+==============
+
+Review meeting for test specification and document fixes:
+    Completed a test specification review and fixed minor errors in meeting
+    Hours: 1
+
+Tuesday (07/03/2023) meet and discuss design:
+    Discussed what the design specification should look like and started outlining classes and algorithms for the final design
+    Hours: 3
+
+
+Other project work
+
+================
+Created spreadsheet for tracking project hours and added entries so far
+	Hours: 2
+
+Created draft version of design specification for everyone to use
+	Hours: 1
+
+Total Hours: 7

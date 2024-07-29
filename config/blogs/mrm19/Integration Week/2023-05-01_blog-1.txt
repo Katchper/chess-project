@@ -1,0 +1,19 @@
+Author: mrm19
+Day: 1 - Integration Week (Monday)
+
+Assigned Actions
+==============
+
+Action 1: Menus.
+-> Updated Exit Menu and Load Menu.
+
+Time: 3hrs
+
+
+Other Project Work
+================
+Updated project structure.
+
+Time: 2hrs
+
+Total Time: 5hrs

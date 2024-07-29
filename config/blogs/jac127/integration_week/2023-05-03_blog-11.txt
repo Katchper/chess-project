@@ -1,0 +1,22 @@
+Author: jac127
+Week: 10 (03/05/23)
+
+Other project work
+================
+Group work session:
+	Discussed progress with Kacper and Muntazir
+	Assiged new tasks based on project progress
+	After discussion with the group, put JavaFX library into resources folder so that our project will work on any machine without the 	need for installations. Updated the ReadMe file accordingly.
+	Hours: 4
+
+Created test files and updated test spec to reflect current UI
+	Hours: 1
+
+Began writing JavaDoc comments for classes
+	Hours: 1
+
+Added some code to FENconverter class and wrote more JavaDoc for it
+	Hours: 1
+
+
+Total Hours: 7

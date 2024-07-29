@@ -1,0 +1,26 @@
+Author: jas160
+Week: 1 (09/02/23)
+
+Assigned actions
+==============
+
+1: One or two people to read SE.QA.06 and to start making system tests for the test specification (from minutes of previous week)
+
+I looked over Jasper's tests he came up with, reviewed them and came up with more ones we could possibly add
+
+Hours: 1
+
+2: Everyone must read the group project introduction document and the 
+requirements specification. 
+
+I read the document
+
+Hours: 1
+
+3:Everyone must watch the Panopto recording on how to build the UI specification.
+
+I watched the recording.
+
+Hours: 1
+
+Total Hours: 3

@@ -1,0 +1,14 @@
+Author: mrm19
+Day: 4 - Integration Week (Thursday)
+
+Project Work
+================
+Replayboard
+Checkmate Popup
+Replay Menu
+Updated Load Menu so it can also delete saved games.
+Added a method to draw indivisual pieces on chessboard.
+JUnit Tests Bishop
+Bug Fixes
+
+Total Time: 12hrs

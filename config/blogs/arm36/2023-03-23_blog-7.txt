@@ -1,0 +1,26 @@
+Author: arm36
+Week: 7 (23/03/23)
+
+Assigned actions
+==============
+
+Action 1: Get in touch of jac127 for the Design Specification document.
+
+Jasper added his parts.
+
+Hours: 0
+
+Action 2: I was asked to make corrections to the UML sequence diagrams
+
+I made these corrections as required
+
+Hours: 1
+
+Other project work
+================
+
+I attended two meetings, both of which were review meetings for the design specification.
+
+Hours: 5
+
+Total hours: 6

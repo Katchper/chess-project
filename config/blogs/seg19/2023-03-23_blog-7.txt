@@ -1,0 +1,18 @@
+Author: seg19
+Week: 7 (23/03/23)
+
+Assigned actions
+==============
+
+
+Other Project work
+==================
+
+1) I wrote out the questions that I would need to review the documents for each reviews 
+
+Hours:1
+
+2) I attended two review meetings, these were to discuss the design specification 
+and ensure that it was completed to the standards set out in SE.QA.02 and SE.QA.05
+
+Hours: 4

@@ -1,0 +1,31 @@
+Author: seg19
+Week: Integration Week (05/05/23)
+
+Project work
+============
+
+1) Read throough the code and make sure its up to the standards of SE.QA.09 
+
+	Hours:2- ongoing as new code is uploaded daily during integration week 	
+
+2) continue to read through & Make sure all documents are present in the Github ready for submission 
+	
+	Hours: 2
+
+3) Work with Wyn on testing the code 
+	hours: 2
+
+4) inform relevant groupmates about the issues with their code when it comes to SE.QA.09
+	hours: 1
+
+
+5) re-test code to esure that it passed all the tests.
+
+	Hours: 2
+	
+	
+
+Total Hours: 9
+
+ 
+

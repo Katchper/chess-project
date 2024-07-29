@@ -1,0 +1,22 @@
+Author: seg19
+Week: 2 (09/02/23)
+
+Assigned actions
+==============
+
+Action 1: Come up with some ideas about how the project will look
+
+Had a few ideas about how the final board should look, 
+drew a few rough sketches about how i think the project will look 
+
+Hours: 2
+
+Action 2: Start prototyping ideas on how it will look
+
+worked in the library with archie on the UI presentation, 
+main points of every use case was covered
+
+Hours: 3
+
+
+Total hours: 5

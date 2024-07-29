@@ -1,0 +1,18 @@
+Author: ktd1
+Week: 12 - (03/05/2023)
+
+Assigned Actions
+==============
+NONE
+
+Other Project Work
+==============
+Added adjustments to the Chessboard class
+
+Hours: 6
+
+Bugfixes on castling
+
+Hours: 4
+
+Total Time: 10 Hours

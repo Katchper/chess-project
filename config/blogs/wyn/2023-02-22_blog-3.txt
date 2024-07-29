@@ -1,0 +1,21 @@
+Author: wyn
+Week: 3 - (22/02/2023)
+
+Assigned Actions
+==============
+
+Action 1: Work on the presentation of the UI reqirements
+I have seen and understood the current version of current UI presentation, 
+and furthermore gave my opinion in a meeting.
+Hours: 2
+
+Other Project Work
+================
+I have considered some possible graphical design idea for the software (which will not be proposed
+soon, as it is too early to do so at this stage).
+Hours: 2
+
+I went back to SE.QA.04 to make sure that the UI reqirements are met in the presentation.
+Hours: 1
+
+Total Time: 5 Hours

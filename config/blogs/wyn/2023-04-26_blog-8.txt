@@ -1,0 +1,16 @@
+Author: wyn
+Week: 8 - (26/04/2023)
+
+Assigned Actions
+==============
+1. I have attented meeting with my project members about what to do with the testing of the project.
+Hours: 1
+
+2. I have briefly looked into the JUnit for building the code to conduct the testing in the future.
+Hours: 4
+
+Other Project Work
+================
+NONE
+
+Total Time: 5 Hours

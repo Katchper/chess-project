@@ -1,0 +1,21 @@
+Author: ktd1
+Week: 7 - (23/03/2023)
+
+Assigned Actions
+==============
+Attended design review meeting on the 17/03/2023 to discuss the design choices for the program later on
+Hours: 2
+
+Attended another design review meeting on the 17/03/2023 to discuss what needs to be done to
+finalise the design document
+
+Hours: 2
+
+Wrote the pseudocode for the significant algorithms
+
+Hours: 3
+Other Project Work
+==============
+NONE
+
+Total Time: 7 Hours

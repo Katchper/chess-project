@@ -1,0 +1,28 @@
+Author: seg19
+Week: Integration Week (03/05/23)
+
+Project work
+============
+
+1) Read throough the code and make sure its up to the standards of SE.QA.09 
+
+	Hours:3- ongoing as new code is uploaded daily during integration week 	
+
+2) continue to read through & Make sure all documents are present in the Github ready for submission 
+	
+	Hours: 2
+
+3) Inform teammates of any changes needed to be made to the uploaded documents
+
+	Hours: 1
+
+4) continue editing the minutes to reflect abscences 
+	
+	Hours:  2
+
+
+
+Total Hours: 8
+
+ 
+

@@ -1,0 +1,31 @@
+Author: jac127
+Week: 4 (02/03/23)
+
+Assigned actions
+==============
+
+Continue to add test requriements of the software:
+    Finshed up the test spec and prepared it for review
+    Hours: 2
+
+Collaborate on the save-to-file system:
+    I was unable to get in touch with jas160, but finished saving the current board position to a file
+    Hours: 1
+
+
+Other project work
+
+================
+Created new issues on gitlab for this weeks tasks and informed the group members
+    Hours: 1
+
+Attended UI spec review meeting and helped plan and suggest changes
+    Hours: 2
+
+Short meeting with ktd1 to discuss interaction between saving to files and current moves algorithm
+    Hours: 1
+
+Began planning of design specification:
+    Hours: 1
+
+Total Hours: 8

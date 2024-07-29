@@ -1,0 +1,12 @@
+Author: jas160
+Week: 9 (27/04/23)
+
+Assigned actions
+==============
+Friday (21/04/2023): Meeting to discuss current progress in the project
+Hours: 1
+
+Work on the Fen Class: Worked on making the saving and loading methods up to date with the project whilst researching how to do so
+Hours: 11
+
+Total Hours: 12

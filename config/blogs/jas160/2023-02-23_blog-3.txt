@@ -1,0 +1,24 @@
+Author: jas160
+Week: 3 (23/02/23)
+
+Assigned actions
+==============
+1: Work on prototyping the save-to-file aspects of the software.
+
+I created the safe to file aspect for the prototype
+
+Hours: 6
+
+
+Other project work
+================
+
+Attended a group meeting to discuss the project
+
+Hours: 1
+
+Researched abou FEN strings are and how to go about saving one to a file
+
+Hours: 2
+
+Total Hours: 9

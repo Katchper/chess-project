@@ -1,0 +1,29 @@
+Author: mrm19
+Week: 1 - (02/02/2023)
+
+Assigned Actions
+==============
+
+Action 1: Read the group project introduction document and the 
+requirements specification.
+-> Read and made comprehensive notes on the group project introduction document and requirements specification.
+
+Action 2: Watch the Panopto recording on how to build the UI specification.
+-> I watched the Panopto recording and took note of key points as I did so.
+
+Time : 2hrs (Combined) 
+
+Action 3: Try starting to program the on-screen display.
+->Forked the repo and set up local development environment.
+Added the chess board and created a merge request for others to review.
+
+Time : 1hr
+
+Other Project Work
+================
+
+I watched some videos and went over previous worksheets to brush up on Java FX.
+
+Time : 2hrs
+
+Total Time: 5 Hours

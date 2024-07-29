@@ -1,0 +1,24 @@
+Author: arm36
+Week: 9 (27/04/23)
+
+Assigned actions
+==============
+
+Action 1: Explain the pseudo code and write an explanation, Example FEN string
+
+Kacper sent me explainations for the pseudo code which I added to the document. I also added an example FEN string.
+
+Hours: 2
+
+Action 2: Create a meeting for Friday 21st at 5:30- seg19.  bring laptops, pencils, paper etc
+
+A meeting was organised and carried out on the given date.
+
+Hours: 3
+
+Other project work
+================
+
+N/A
+
+Total hours: 5

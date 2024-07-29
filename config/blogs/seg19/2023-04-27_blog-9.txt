@@ -1,0 +1,31 @@
+Author: seg19
+Week: 9 (27/04/23)
+
+Assigned actions
+==============
+1) meeting to discuss project and make sure that everyone knows what needs to be done
+
+	Hours: 1
+
+2) Create a meeting for Friday 21st at 5:30- seg19 
+	Hours: 1
+
+3) Formal Review of Test spec
+	Hours: 1
+
+4) Read Through the code already uploaded by team members and ensure it is to the 
+	standards set out in SE.QA.09 and inform the relevant authors
+	Hours: 4 (Got to inform the authors)
+
+Other Project work
+==================
+Write out a Coding Standrds read me as a go to for integration week.
+
+
+	Hours: 1
+
+
+Total Hours: 8
+
+ 
+

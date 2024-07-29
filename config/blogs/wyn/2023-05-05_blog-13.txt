@@ -1,0 +1,20 @@
+Author: wyn
+Week: 9 - (05/05/2023)
+
+Assigned Actions
+==============
+1. I spent some time in reading the code to ensure it follows SE.QA09.
+Hours : 2
+
+2. I spent some time updating the javadocs in some of the classes.
+Hours : 3
+
+3. I have gone through the test code using the Test Specification with seg19.
+Hours : 2
+
+
+Other Project Work
+==============
+NONE
+
+Total time: 6

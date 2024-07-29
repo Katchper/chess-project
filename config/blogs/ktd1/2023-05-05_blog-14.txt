@@ -1,0 +1,26 @@
+Author: ktd1
+Week: 14 - (05/05/2023)
+
+Assigned Actions
+==============
+NONE
+
+Other Project Work
+==============
+Polished castling
+
+Hours: 5
+
+Added final touches to the fenstring loader + saver
+
+Hours: 4
+
+Helped with replay function
+
+Hours: 2
+
+Bugfixes
+
+Hours: 1
+
+Total Time: 12 Hours

@@ -1,0 +1,26 @@
+Author: arm36
+Week: 3 (23/02/23)
+
+Assigned actions
+==============
+
+Action 1: Work on the presentation of the UI reqirements
+
+Sean and I have continued to work on the UI presentation to near completion - only minor additions and changes need to be made now to put it into review.
+
+Hours: 2
+
+Action 2: The use of colours on their indicators may not be feasible with certain group of colourblinded players. They will look more into this matter.
+
+Sean and I have put some thought into different types of colourblindness, and have come to the conclusion of a drop down menu.
+
+Hours: 1
+
+Other project work
+================
+
+I, alongside other members of the group, organised and ran an internal meeting for the project where we showed eachother what we have been up to and discussed potential ideas.
+
+Hours: 3
+
+Total hours: 6

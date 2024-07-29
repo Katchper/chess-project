@@ -1,0 +1,16 @@
+Author: wyn
+Week: 6 - (15/03/2023)
+
+Assigned Actions
+==============
+1. I have attented meeting with my project members about the Design Specification.
+Hours: 6
+
+2. I have briefly looked into the JUnit for building the code to conduct the testing in the future.
+Hours: 2
+
+Other Project Work
+================
+NONE
+
+Total Time: 8 Hours

@@ -1,0 +1,26 @@
+Author: seg19
+Week: 8 (20/04/23)
+
+Assigned actions
+==============
+1) write a short report on Junit testing with wyn:
+ 		Myself and Wyn entered a discord call and produced the JUnit Readme in the Github
+	Hours: 1
+
+2) create a snippet of how the Junit dev.Tests.TileTests should look
+	created a snippet of what the Junit tests should look like and added it to the document
+	Hours: 1 
+
+
+Other Project work
+==================
+
+Read Over SE.QA.08 & SE.QA.09
+
+	Hours 1
+
+
+Total Hours: 3
+
+ 
+

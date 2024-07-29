@@ -1,0 +1,21 @@
+Author: wip24
+Week: 10 (04/05/23)
+
+Assigned actions
+==============
+
+Action 1: Testing / Bug fixing
+
+	Action taken: Help test program against test spec, and general testing / bug checking
+
+Hours: 7
+
+Other project work
+================
+Action 1: 
+
+	Action taken:
+
+Hours: 
+
+Total hours: 7

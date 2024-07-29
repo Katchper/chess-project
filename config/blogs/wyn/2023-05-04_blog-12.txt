@@ -1,0 +1,23 @@
+Author: wyn
+Week: 9 - (04/05/2023)
+
+Assigned Actions
+==============
+1. I spent some time in bugfinding the game.
+Hours : 2
+
+2. I have spent some time reading codes and make sure it follows SE.QA.09
+Hours : 2
+
+3. I did the testing procedure according to the Test Specification with seg19.
+Hours : 2
+
+4. I wrote some of javadocs on some of the classes in the project.
+Hours : 1
+
+Other Project Work
+==============
+I have studied JUnit test to deepen my understanding of its application.
+Hours: 1
+
+Total time: 8

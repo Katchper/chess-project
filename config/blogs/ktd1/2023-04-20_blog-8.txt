@@ -1,0 +1,13 @@
+Author: ktd1
+Week: 8 - (20/04/2023)
+
+Assigned Actions
+==============
+Created a polished version of the board class
+Hours: 5
+
+Other Project Work
+================
+NONE
+
+Total Time: 5 Hours

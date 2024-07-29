@@ -1,0 +1,26 @@
+Author: arm36
+Week: 4 (02/03/23)
+
+Assigned actions
+==============
+
+Action 1: Preparing the UI specification documents for the review process
+
+Sean and I prepared the UI specification for review, and had it reviewed in a meeting. A list of suggested changes was made by Sean and are listed in the form of minutes.
+
+Hours: 4
+
+Action 2: Changes to the UI Spec to be made by Arm36
+
+I have made the changes requested to the UI specification document, and changed the status to 'Release'.
+
+Hours: 1
+
+Other project work
+================
+
+I viewed the lecture recordings and made extensive notes. I also had some discussions with team members outside of the meeting related to the project.
+
+Hours: 1
+
+Total hours: 6

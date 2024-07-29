@@ -1,0 +1,17 @@
+Author: wyn
+Week: 4 - (01/03/2023)
+
+Assigned Actions
+==============
+
+5. Conduct a review process of UI specification, and understand the review standard of the process prior to the meeting.
+Hours: 3
+
+Other Project Work
+================
+I have revisited all the lectures about QA from BlackBoard.
+Hours: 3
+
+
+
+Total Time: 6 Hours

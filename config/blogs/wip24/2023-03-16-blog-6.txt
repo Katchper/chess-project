@@ -1,0 +1,22 @@
+Author: wip24
+Week: 3 (16/02/23)
+
+Assigned actions
+==============
+
+Action 1: 5
+
+	Action taken: worked on UML class diagram
+
+Hours: 1
+
+
+Other project work
+================
+Action 1: Attended group meeting
+
+	Action taken: Attended meeting to discuss design specification
+
+Hours: 5
+
+Total hours: 6

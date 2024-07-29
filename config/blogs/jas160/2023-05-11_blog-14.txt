@@ -1,0 +1,9 @@
+Author: jas160
+Week: 12 (11/04/23)
+
+Other project work
+================
+
+Created a new component diagram as the old one didnt reflect our current program, had to go through our entire code finding what the dependencies were
+
+Total Hours: 5

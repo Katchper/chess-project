@@ -1,0 +1,73 @@
+Project: Group Project 118
+Meeting: Weekly Project Meeting 
+Persons present: All project members 
+Place and date of meeting: C57a, Tuesday 2nd February 2023 
+Circulation list: All project members, plus project manager 
+Author: Andy Starr
+Date of minutes: 3rd February
+Version: 1.0
+
+Matters arising 
+===============
+NONE
+
+New business 
+============
+1. Introductions 
+ACTION: ALL
+
+Jasper Crabb Ð jac127
+Kacper Dziedzic Ð ktd1
+Sean Gemmell Ð seg19
+Archie Malvern Ð arm36
+Wei Yuan Ng Ð wyn
+William Parry Ð wip24
+Muntazir Rashid Ð mrm19
+Jason Smith Ð jas160
+
+2. Discuss project brief and intro documents
+ACTION: aos
+
+3. Role of project manager
+ACTION: aos
+
+4. Status of group Gitlab repository?
+ACTION: ALL
+
+5. One or two people to read SE.QA.04 and start working on UI specification
+by making a list of possible use cases based on the requirements document,
+and to report back to the group next week.
+ACTION: seg19 arm36
+
+7. Everyone must watch the Panopto recording on how to build the UI specification.
+ACTION: ALL
+
+8. Everyone must read the group project introduction document and the 
+requirements specification. 
+ACTION: ALL
+
+9. one or two people to read SE.QA.06 and to 
+start making system tests for the test specification and to 
+report back to the group next week.
+ACTION: jac127 jas160
+
+10. One or two people to think about implementation Ð what kinds 
+of code will you need? What are the difficult problems? 
+Report back findings next week.
+ACTION: ktd1
+
+11. One or two people to try starting to program the on-screen display: 
+that is get up to speed with javafx. Report back next week.
+ACTION: mrm19 wip24
+
+12. Someone to look into the documents SE.QA.01, 02 and 03, 
+and to explain how QA works on the project.
+ACTION: wyn
+
+13. Start thinking about who should be project leader and quality
+assurance manager and their deputies. Discuss next week.
+ACTION: ALL
+
+AOB 
+=== 	
+

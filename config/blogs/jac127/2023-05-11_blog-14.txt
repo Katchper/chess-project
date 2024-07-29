@@ -1,0 +1,19 @@
+Author: jac127
+Week: 12 (11/04/23)
+
+Other project work
+================
+Wrote Final Report
+	Hours: 9
+
+Helped Write Test Report
+	Hours: 1
+
+Formatted Maintenance Manual
+	Hours: 1
+
+Tidyied up gitlab and did final config work
+	Hours: 1
+
+
+Total Hours: 12

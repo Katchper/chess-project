@@ -1,0 +1,25 @@
+Author: jas160
+Week: 5 (09/03/23)
+
+Assigned actions
+==============
+1: Tuesday (07/03/2023) meet and discuss design:
+
+Discussed what the design specification should look like and started outlining classes and algorithms for the final design
+    
+Hours: 3
+
+Dependency description work with Kacper 
+
+Got on a call with Kacper and talked about the program so that i was able to do the compoenent diagram
+
+Hours: 3
+
+Other project work
+================
+Researching UML component diagrams
+
+Hours 2
+
+Total hours: 8
+

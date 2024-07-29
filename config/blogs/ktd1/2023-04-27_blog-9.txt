@@ -1,0 +1,20 @@
+Author: ktd1
+Week: 9 - (04/27/2023)
+
+Assigned Actions
+==============
+Written explanation of the pseudocode rationale
+
+Hours: 2
+
+Work on creating polished versions of the Piece classes
+
+Hours: 6
+
+Other Project Work
+==============
+Researched how to link up the board with the GUI:
+
+Hours: 2
+
+Total Time: 10 Hours

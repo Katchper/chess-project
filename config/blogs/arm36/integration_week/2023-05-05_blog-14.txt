@@ -1,0 +1,9 @@
+Author: arm36
+Integration Week Day: 5 (05/05/23)
+
+Project work
+================
+
+Continued to work on FEN string saving and loading; now each turn is saved to the file. Also fixed some tests to work with newer code.
+
+Total hours: 6

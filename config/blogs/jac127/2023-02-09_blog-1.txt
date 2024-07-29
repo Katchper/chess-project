@@ -1,0 +1,11 @@
+Author: jac127
+Week: 1 (05/02/23)
+
+Assigned actions
+==============
+
+Action 1: One or two people to read SE.QA.06 and to start making system tests for the test specification (from minutes of previous week)
+
+Reviewed SE.QA.06 and complied a list of tests for each functional requirement
+
+Hours: 1

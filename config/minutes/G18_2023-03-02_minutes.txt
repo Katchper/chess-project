@@ -1,0 +1,68 @@
+Project: Group Project 18
+
+Meeting: Weekly Project Meeting 
+
+Persons present: 8 of 9 persons present  
+
+Place and date of meeting: C57a, Thursday 2nd March 2023 
+
+Circulation list: 7 0f 8 members present, plus project manager 
+
+Author: Sean Gemmell, Ng Wei Yuan
+
+Date of minutes: 2nd March
+
+Version: 2.0
+
+
+Matters arising 
+
+===============
+1. Following this week's review meeting on the UI Specification, all required changes has been successfully made and verified by the QA team.
+
+============
+
+Old business tasks 1-6
+
+Tasks from last week: 
+completed: 3, 4, 5, 6 
+
+
+============
+
+New business 
+
+1) Contact Jason
+	Action: Aos
+
+2) Set up a review meeting for the test specification on monday 06/03/2023
+	Action: Seg19
+
+3) Colaborate with kacper about code 
+	Action: Wip24
+
+4) Work on decomposition description 
+	Action: Jac127
+
+5) Work on dependency description 
+	Action: Ktd1 & Jas160
+
+6) interface description 
+	Action: Mrm19
+
+7) Tuesday (07/03/2023) meet and discuss design 
+	Action: All team members
+
+8) UML sequence diagrams
+	Action: Arm36
+
+9) review test specification documents
+	Action: Seg19 & Wyn
+
+10) Write a required attendees list for the review 
+	Action: Seg19
+
+11) Read SE.QA.05 
+	Action: All team members  
+
+============

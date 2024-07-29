@@ -1,0 +1,21 @@
+Author: jas160
+Week: 2 (16/02/23)
+
+Assigned actions
+==============
+
+1: Review Jaspers Documents and add additional tests if required
+Action
+
+I looked over Jasper's tests he came up with again, reviewed them and decided they were good and didn't need changing  
+
+Hours: 1
+
+Other project work
+================
+
+Reviewed some of the documents to make sure I know what is expected of us in this project
+
+Hours: 2
+
+Total Hours: 3

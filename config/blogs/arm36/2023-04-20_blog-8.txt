@@ -1,0 +1,26 @@
+Author: arm36
+Week: 8 (20/04/23)
+
+Assigned actions
+==============
+
+Action 1: Collaborate with Mrm19 & Ktd1.
+
+While I have not collaborated directly, I have had a good look at Kacper's move generation code and have an idea of how I could incorporate it into the Game class.
+
+Hours: 1
+
+Action 2: Think about implementing the Game class
+
+I have read the design specification and begun planning and writing the Game class.
+
+Hours: 3
+
+Other project work
+================
+
+I adjusted my blog files to be more consistant with the minutes, and made some of Chris' suggested changes to the GitLab, specifically I have modified the use case presentation and added a PDF version.
+
+Hours: 1
+
+Total hours: 5

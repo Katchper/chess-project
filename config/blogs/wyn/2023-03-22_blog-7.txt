@@ -1,0 +1,26 @@
+Author: wyn
+Week: 7 - (22/03/2023)
+
+Assigned Actions
+==============
+1. I attended two review meetings, these were to discuss the design specification 
+and ensure that it was completed to the standards set out in SE.QA.02 and SE.QA.05
+
+Hours: 4
+
+2. I have met up with jac127 to assist him in correcting the test specification based on Chris' feedback.
+
+Hours: 2
+
+3. I have met up with seg18 on Discord to write a brief tutorial on how to incoporate JUnit into the project.
+
+Hours: 1
+
+
+Other Project Work
+==============
+1. I have briefly looked up JUnit to deepen my understanding of it.
+
+Hours: 4
+
+Total Time: 11 Hours

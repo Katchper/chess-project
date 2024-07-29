@@ -1,0 +1,9 @@
+Author: arm36
+Integration Week Day: 1 (01/05/23)
+
+Project work
+================
+
+I began work on JUnit tests for some of the classes of the program, and worked on improvements to the design specification. I also previously attended a meeting to bring the code together.
+
+Total hours: 6

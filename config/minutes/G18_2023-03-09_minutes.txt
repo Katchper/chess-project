@@ -1,0 +1,54 @@
+Project: Group Project 18
+
+Meeting: Weekly Project Meeting 
+
+Persons present: 8 of 9 persons present  
+
+Place and date of meeting: C57a, Thursday 9th March 2023 
+
+Circulation list: 7 0f 8 members present, including project manager. ktd1 and seg19 are late to the meeting by a couple of minutes (not informed beforehand), wip24 is late to work on his task (informed beforehand).
+
+Author: Ng Wei Yuan
+
+Date of minutes: 9th March
+
+Version: 2.1
+
+
+Matters arising 
+===============
+1. seg19 held a review meeting about the Test Specification.
+
+2. jac127 held a meeting to discuss design specification, a draft of the document has been uploaded to gitlab.
+
+3. Chris has gave feedback on the progress so far, following one of his advice, we have removed the addition of colourblind option,
+and therefore the valid moves indicator colour is changed to grey instead.
+
+4. Furthermore, all issues arising in gitlab will be attempted to be fixed by today.
+
+New business 
+==============
+1. Work on UML class diagram of the software for the Design Specification.
+Action :wip24
+
+2. Work on the significant part of the algorithm for the Design Specification.
+Action: ktd1
+
+3. Look into JUNIT for the testing of the code.
+Action: wyn seg19
+
+4. Update past minutes to show that we have done QA on UI spec.
+Action: wyn
+
+5. Work on decomposition for the Design Specification, and hold a meeting this week to discuss it further.
+Action: jac127
+
+6. Work on interface description for Design specification.
+ACtion: mrm19 jas160
+
+7. Work on sequence diagrams for Design specification.
+Action: arm36
+
+AOB
+====
+NONE

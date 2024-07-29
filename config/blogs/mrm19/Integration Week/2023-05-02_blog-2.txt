@@ -1,0 +1,12 @@
+Author: mrm19
+Day: 2 - Integration Week (Tuesday)
+
+Project Work
+================
+Button Functionality.
+Added Exit Menu on chessboard. 
+Bug Fixes.
+JUnit Tests for Knight
+
+
+Total Time: 7hrs

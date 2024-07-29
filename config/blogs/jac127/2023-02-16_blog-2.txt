@@ -1,0 +1,24 @@
+Author: jac127
+Week: 2 (15/02/23)
+
+Assigned actions
+==============
+
+Action 1: Make some tests for the test specification
+
+    Created a draft of the systems tests specification
+    Hours: 3
+
+Action 2: Research storing the chess board in a file
+
+    Found a system that would work for us (fen strings) and created a demonstration of it in Java
+    Hours: 2
+
+
+Other project work
+================
+
+Reviewed QA documents before starting the test specification and prototypes to check my understanding of the requirements
+Hours: 1
+
+Total Hours: 6

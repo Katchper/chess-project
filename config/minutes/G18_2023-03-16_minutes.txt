@@ -1,0 +1,43 @@
+Project: Group Project 18
+
+Meeting: Weekly Project Meeting 
+
+Persons present: 7 of 9 persons present  
+
+Place and date of meeting: C57a, Thursday 16th March 2023 
+
+Circulation list: 6 0f 8 members present, including project manager. jas160 will be late by 10 minutes (informed beforehand), jac127 and seg19 will be absent in the meeting (informed beforehand).
+
+Author: Ng Wei Yuan
+
+Date of minutes: 16th March
+
+Version: 1.0
+
+
+Matters arising 
+===============
+1. With many tasks on hand, the project members has decided to pioritise on doing the Design Specification. 
+The document is expected to be finished by tomorrow, where a review process will be held at the same day.
+
+2. wyn has gotten familiar with JUnit for this week, and noted that many of the test code provided by past modules can be 
+referenced/inspired as a general direction on how we should make our own test code. He should start get in contact with seg19 with this aspect.
+
+3. The rest of the tasks allocated will be given after the review meeting.
+
+New business 
+==============
+1. Set up and conduct a review process meeting for the Design Specification.
+Action: wyn seg19
+
+2. Add his parts (table mapping reqirements on classes, sig data stucture) into the Design Specification. 
+Furthermore, think about who should do the task after tomorrow's review meeting.
+Action: jac127
+
+3. Get in touch of jac127 for the Design Specification document.
+Action: arm36
+
+ 
+AOB
+====
+NONE

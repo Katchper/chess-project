@@ -1,0 +1,29 @@
+Author: seg19
+Week: 3 (16/02/23)
+
+Assigned actions
+==============
+
+Action 1: look into colourblindness 
+
+Researched into the differing types of colour blindness and 
+how we can change our design to allow people with colourblindness to play the game
+
+Hours:
+
+Action 2: Worked on the presentation 
+
+Continued to work on the presentation 
+
+Hours: 2 
+
+Action 3: external group meeting 
+
+In this meeting we showed the rest of the group the work archie and i had done on the UI design, 
+got feedback from the group discussed the colourblindness concepts we came up with. 
+Gave feedback to others in the group about the work they had done
+
+Hours: 2 
+
+
+Total hours: 4

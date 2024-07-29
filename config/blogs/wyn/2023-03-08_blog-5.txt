@@ -1,0 +1,20 @@
+Author: wyn
+Week: 5 - (08/03/2023)
+
+Assigned Actions
+==============
+
+1. Conduct a review process of Test specification, and understand the review standard of the process prior to the meeting.
+Hours: 2
+
+2. Attended a meeting about the drafting of the Design Specification
+Hours: 3
+
+Other Project Work
+================
+I have looked through real live examples of design specification of sofewares on the internet to get familiar with what the end product is supposed to look like.
+Hours: 3
+
+
+
+Total Time: 8 Hours

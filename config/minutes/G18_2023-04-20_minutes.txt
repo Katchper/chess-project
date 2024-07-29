@@ -1,0 +1,84 @@
+Project: Group Project 18
+
+Meeting: Weekly Project Meeting 
+
+Persons present: jac127, ktd1, seg19, arm36, wip24, mrm19(absent), jas160(absent due to illness), wyn(absent due to illness)
+
+Place and date of meeting: C57a, Thursday 20 April 2023 
+
+Circulation list: All members including project manager
+
+Author: Sean Gemmell
+
+Date of minutes: 20/04/2023
+
+Version: 1.0
+
+
+Matters arising 
+===============
+
+1) write a short report on Junit testing 
+action- Seg19 & Wyn --completed
+
+2) work on the saving class 
+Action- Jas160 --ongoing
+
+3) work on the UI and Java Fx classes 
+Action- Mrm19 --ongoing awaiting update
+
+4) colaborate with Mrm19 & Ktd1 
+Action- Arm36 -- completed
+
+5) Create a polished version of the board class
+Action- Ktd1 --ongoing awaiting upload
+
+6) think about implementing the game class 
+Action- Arm36 -- completed
+ 
+7) Work on the tile class
+Action- Jac127 --completed
+
+8) work on the check class 
+Action- wip24 --ongoing
+
+9) help Jac127 with the tests
+Action- wyn --completed
+
+10) create a snippet of how the junit tests should look
+Action- Seg19 -- done
+
+
+New business 
+==============
+1) Look at algorithm in meeting- everyone
+
+2) Implement a visual representation using Java FX of the game graphics- wip24
+
+3) Implement a visual representation using java fx of the game menus- mrm19
+
+4) Work on the piece classes- jac127 & ktd1
+
+5) Get in touch with the rest of the group regarding the progress of the FEN files work he has done- jas160 
+
+6) Ammend the diagram in the design spec in accordance with the feedback given by chris- jas160
+
+7) Explain the pseudo code and write an explanation- Ktd1 & Arm36
+
+8) Amend Class diagrams to have correct inheritance- wip24
+
+9) Example FEN string- Arm36 
+
+10) Create a meeting for Friday 21st at 5:30- seg19.  bring laptops, pencils, paper etc- everyone
+
+11) Go through the code that has been uploaded already and ensure it is to the standards set out in SE.QA.09 and inform the relevant authors of changes needed- seg19 
+
+12) Formal QA Audit on the design spec- Seg19 & wyn
+
+13) Go through the uploaded code so far and ensure that the unit testing is testing what it's supposed to and is up to standard- Wyn
+
+14) Need to be writing unit tests for all code- everyone
+
+AOB
+====
+NONE

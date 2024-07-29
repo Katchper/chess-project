@@ -1,0 +1,30 @@
+Author: jac127
+Week: 10 (02/05/23)
+
+Assigned actions
+==============
+
+Meeting on Friday:
+	The programmers and I had a meeting to bring our code from the project into one functioning program. We were mostly successful and 
+	I assigned tasks to those now that we knew what we needed to do next
+	Hours: 2
+
+Short meeting with Jason to work on castling algorithm
+	Hours: 1
+
+
+Other project work
+================
+Developed Junit tests for Tiles class
+	Hours: 1
+
+Group work on Monday:
+	Mainly file restructuring and discussions on algorithms and testing
+	Hours: 3
+
+Following Monday's discussions:
+	Using intellij, fixed file structure issues e.g. packages where they shouldn't be and organised tests we have so far
+	Hours: 1
+
+
+Total Hours: 8

@@ -1,0 +1,69 @@
+Project: Group Project 118
+
+Meeting: Weekly Project Meeting 
+
+Persons present: 8 of 9 persons present  
+
+Place and date of meeting: C57a, Thursday 9th February 2023 
+
+Circulation list: 7 0f 8 members present (jason not present due to illness), plus project manager 
+
+Author: Sean Gemmell
+
+Date of minutes: 9th February
+
+Version: 1.0
+
+
+Matters arising 
+
+===============
+NONE
+
+============
+
+Old business
+
+Tasks from last week: 
+completed: 1,2,3,4,7,8,10,12 & 13  
+
+task 13- roles selected: 
+Project leader- Jasper
+Deputy project leader- Archie
+Quality assurance- Sean
+Deputy quality assurance- wei
+
+ongoing: 5, 9, 11
+
+task 5: come up with some ideas about how the project will look
+ACTION- Seg & Arm
+
+task 9: make some tests for the test specification
+ACTION- Jac & Jas
+
+task 11: continue with Java Fx 
+ACTION- Mrm & Wip
+
+============
+
+New business 
+
+1. Start prototyping ideas on how it will look
+ACTION- Seg & Arm
+
+2. Being able to define valid moves
+ACTION- Kacper
+
+3. Check & checkmate system 
+ACTION- Wip 
+
+4. Start Working on the UI documentation
+ACTION- Seg & Arm
+
+5. Read SE.QA.07 & SE.QA.08 and up date the QA
+ACTION- Wyn
+
+6. Review Jaspers Documents and add additional tests if required
+Action- Jas
+
+============

@@ -1,0 +1,9 @@
+Author: arm36
+Integration Week Day: 3 (03/05/23)
+
+Project work
+================
+
+I completed work on loading FEN strings from the user interface, and began working on integrating loading FEN string from files into the user interface.
+
+Total hours: 6

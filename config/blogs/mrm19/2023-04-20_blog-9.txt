@@ -1,0 +1,20 @@
+Author: mrm19
+Week: 9 - (20/04/2023)
+
+Assigned Actions
+==============
+
+Action 1: Work on JavaFX menu classes.
+
+-> Created the LoadMenu JavaFX class which loads text files and loads the data into fenstring which can be passed to the board to load a game from prevoius saved state. It is still rough and needs some more work.
+-> Also created ExitMenu, ap pop up shows up which lets user to exit the application fully by clicking yes and go back if No is clicked.
+
+Time: 15hrs
+
+Other Project Work
+================
+Kacper asked me to create method which can remove the pieces from the board. So we can work to implement capturing the pieces. I am still working on that. It is not yet fully working.
+
+Time: 5hrs
+
+Total Time: 20hrs

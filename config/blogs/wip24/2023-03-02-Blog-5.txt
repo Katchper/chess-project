@@ -1,0 +1,21 @@
+Author: wip24
+Week: 5 (02/03/23)
+
+Assigned actions
+==============
+
+Action 1: Action 2
+
+	Action taken: Continued work on check checkmate
+
+Hours: 8
+
+Other project work
+================
+Action 1: Meeting
+
+	Action taken: Attended meeting
+
+Hours: 2
+
+Total hours: 10

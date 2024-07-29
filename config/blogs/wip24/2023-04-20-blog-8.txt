@@ -1,0 +1,21 @@
+Author: wip24
+Week: 3 (16/02/23)
+
+Assigned actions
+==============
+
+Action 1: 8
+
+	Action taken: continue working on check class
+
+Hours: 4
+
+Other project work
+================
+Action 1: Front & back end
+
+	Action taken: began testing combing front and back end code
+
+Hours: 4
+
+Total hours: 8

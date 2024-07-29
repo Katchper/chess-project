@@ -1,0 +1,36 @@
+Author: arm36
+Week: 1 (09/02/23)
+
+Assigned actions
+==============
+
+Action 1: Everyone must watch the Panopto recording on how to build the UI specification, 
+everyone must read the group project introduction document and the requirements specification
+
+I watched and made notes on the Panopto recording, and had a thorough read of the requirements specification, making extensive notes.
+
+Hours: 2
+
+Action 2: One or two people to read SE.QA.04 and start working on UI specification
+by making a list of possible use cases based on the requirements document,
+and to report back to the group next week.
+
+I read the requirements document thoroughly and made notes that can be shared with other team members if need be, 
+and made a good start on the use case document, listing a few possible use cases,
+
+Hours: 4
+
+Action 3: Start thinking about who should be project leader and quality assurance manager and their deputies. Discuss next week.
+
+I had a brief conversation with a couple of team members on who believes they would be good for which role. I personally think I would be a suitable deputy leader.
+
+Hours: 1
+
+Other project work
+================
+
+I had brief talks about some early potential ideas for a user interface, and I created a Discord server to streamline conversations by seperating topics.
+
+Hours: 1
+
+Total hours: 8

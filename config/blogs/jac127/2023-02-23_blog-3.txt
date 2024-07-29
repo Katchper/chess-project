@@ -1,0 +1,24 @@
+Author: jac127
+Week: 3 (23/02/23)
+
+Assigned actions
+==============
+
+3. Continue on adding testing requirements of the software
+    Formatted the test requirement specification to match document standards and continued to add tests
+Hours: 2
+
+Other project work
+================
+
+Began working on prototype code that converts FEN strings into moves
+Hours: 3
+
+Created an issue board and milestones that we will use to track the project
+Hours: 1
+
+Attended a group meeting to discuss our project and coordinate our current tasks
+Hours: 1
+
+Total Hours: 7
+

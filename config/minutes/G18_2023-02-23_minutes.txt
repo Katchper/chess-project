@@ -1,0 +1,66 @@
+Project: Group Project 118
+
+Meeting: Weekly Project Meeting 
+
+Persons present: 8 of 9 persons present  
+
+Place and date of meeting: C57a, Thursday 9th February 2023 
+
+Circulation list: 7 0f 8 members present, including project manager. Sean is absent due to sickness (informed beforehand).
+
+Author: Ng Wei Yuan
+
+Date of minutes: 23th February
+
+Version: 1.0
+
+
+Matters arising 
+===============
+1. seg19, wyn, and arm36 have provided the draft presentation in UI design, where currently all project member except project member has seen.
+Within the presentation there is a proposed solution for the colourblind problem by adding an option to toggle.
+The illegal moves shown by red tiles is also removed as there are little to no use in practical settings.
+
+2. wip24 is currently on progress on working on the checkmate system, he has pseudocode ready but has yet to have a working code. 
+He will continue this task next week. 
+
+3. mrm19 has finished the basic fuction of the main menu and has uploaded it on gitlab.
+
+4. ktd1 is on progree in creating prototype for generating valid moves, he is currently working on where to move the pieces themselves, as well as ways to update the board. 
+Specifically, ktd1 has done the algorithm for making en passant, but has not yet finished doing that of castling.
+
+5. It is noted that wip24 and mrm19's work will eventually clash with ktd1's work, so a collaboration between them is expected in the future.
+
+6. jac127 has added a few more test requirements for the software and will continue to do so.
+
+7. jas160 has provided on a plan of a prototype of the save-to-file system of the software.
+Every action played by a player gets outputted onto a board, and the moves are notated and is saved to a text file.
+
+8. seg19 and arm36 are on track at the UI documentation. They are looking on setting up a review process and has decided on Monday morning.
+
+9. Is it noted that the project member should start planning of the Design Specification document soon.
+
+New business 
+==============
+1. Start adding code to check/checkmate system
+Action :wip24
+
+2. Continue with the algorithm of valid moves
+Action: ktd1
+
+3. continue to add test requriements of the software
+Action: jac127
+
+4. Preparing the UI specification documents for the review process
+Action: seg19 arm36 
+
+5. Conduct a review process of UI specification, and understand the review standard of the process prior to the meeting.
+Action: wyn
+
+6. Collaborate on the save-to-file system, whilst continuing on adding more test for the software.
+Action: jas160 jac127
+
+
+AOB
+====
+NONE

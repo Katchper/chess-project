@@ -1,0 +1,27 @@
+Author: wip24
+Week: 3 (27/04/23)
+
+Assigned actions
+==============
+
+Action 1: 8
+
+	Action taken: Complete implementation of check class
+
+Hours: 6
+
+Action 2: 
+	
+	Action taken: Work on testing and making JUnit tests
+
+Hours: 4
+
+Other project work
+================
+Action 1: Group meeting
+
+	Action taken: attended group meeting
+
+Hours: 1
+
+Total hours: 11

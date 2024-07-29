@@ -1,0 +1,27 @@
+Author: jac127
+Week: 9 (27/04/23)
+
+Assigned actions
+==============
+
+Work on the piece classes:
+	Kacper and I had a meeting to discuss the piece classes
+	Hours: 1
+
+	I began work on the castling 
+	Hours: 1
+
+Meeting to discuss current progress in the project and catch up members that missed to tutorial:
+	Hours: 1
+
+Formal review of test spec:
+	Hours: 1
+
+
+Other project work
+================
+Worked on bringing the code we have so far together and restructuring the files
+	Hours: 3
+
+
+Total Hours: 7
